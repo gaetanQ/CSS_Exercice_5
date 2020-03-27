@@ -1,0 +1,35 @@
+table, td, tr, th {
+    padding: 2px;
+    border: 1px solid black;    
+    }
+    .gras{
+        font-weight: bold;
+    }
+    .italic{
+        font-style: italic; 
+       }
+       .titleBold{
+           font-weight: bold;
+       }
+       .red{
+           color: red;
+       }
+       .green{
+           color: green;
+       }
+       .center{
+           text-align: center;
+       }
+       .arial{
+           font-family: Arial;
+       }
+        .fond{
+            background-color: blue;
+        }
+      body{
+          background-image: url(https://cdn.pixabay.com/photo/2018/09/07/11/30/sea-3660486_960_720.jpg)    
+      }
+
+      body{
+          background-repeat: no-repeat;
+      }
